@@ -1,4 +1,3 @@
-![Calmaria Spa](./assets/thumbnail.png)
 
 # Calmaria Spa
 
